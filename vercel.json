@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://openai-chatkit-starter-app-k34v.onrender.com/api/:path*"
+    }
+  ]
+}
